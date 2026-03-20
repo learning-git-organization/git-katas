@@ -1,0 +1,9 @@
+Proof of Life... 
+
+Did Cherry Picking
+Did Rebasing
+Did Interactive Rebasing
+Did Merge Conflicts
+Did Stashing
+
+I am ready for the Foundations exam.
